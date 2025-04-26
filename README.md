@@ -20,3 +20,8 @@ El portafolio es una aplicación web diseñada para presentar información perso
 - **Sobre mí**: Información personal y habilidades.
 - **Proyectos**: Lista de proyectos destacados con descripciones y enlaces.
 - **Contacto**: Formulario para que los usuarios puedan enviar mensajes.
+
+## Colaboraciones
+
+Se realizaron cambios en el HTML y CSS de abrigolagos
+![image](https://github.com/user-attachments/assets/3468a50c-59cc-46ee-aa14-e983ecd979d1)
